@@ -33,4 +33,3 @@ const passwordArray = [
   
   // Calling the passwordGene function to generate a password of length 100
   passwordGene(10);
-  
